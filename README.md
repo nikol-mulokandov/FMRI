@@ -14,6 +14,3 @@ This project aims to identify which movie a subject watched based on brain activ
 
 The relatively small dataset (170 samples per film) might have limited model performance. We believe that a larger dataset could improve classification results.
 
---- 
-
-Feel free to adjust any specifics as needed!
